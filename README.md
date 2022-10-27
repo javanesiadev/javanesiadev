@@ -7,4 +7,5 @@ Here are some ideas to get you started: -->
 
 Hi, I’m Fillia. Aspiring Full-Stack Web Developer based in Liverpool, UK.
 
-⚡ Currently learning JavaScript
+<img src="/assets/images/icons.png" alt="HTML, CSS, JavaScript">
+
