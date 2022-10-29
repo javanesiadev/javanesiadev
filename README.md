@@ -6,6 +6,15 @@
 Here are some ideas to get you started: -->
 
 Hi, I’m Fillia. Aspiring Full-Stack Web Developer based in Liverpool, UK.
+
+<br/>
+<br/>
+
+✔️ Decided and started to learn coding in May 2022. <br/> ✔️ Completed a Full-Stack Web Development Bootcamp taught by Angela Yu in October 2022. <br/> ✔️ Completed MOOC JavaScript Sprint and received a certificate from Code First Girls in October 2022. <br/> 
+<br/>
+<br/>
+🏁 Currently working on JavaScript certification from FreeCodeCamp. <br/> 🏁 Participating on JavaScript Challenge with Code First Girl sponsored by NatWest.</p><br>
+
 <br/>
 <br/>
 
